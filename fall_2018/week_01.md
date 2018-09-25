@@ -1,6 +1,7 @@
 ## Last Week's Accomplishments
 
 > In this section, you can write about what you accomplished in the previous week.
+
 I familiarized myself with Unity.
 
 ## This Week's Plan
