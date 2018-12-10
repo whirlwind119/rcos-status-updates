@@ -8,7 +8,7 @@ I came up with different enemies to act different. For example, a sniper enemy w
 
 > In this section, you can write about what you have planned for next week.
 
-I will try to balance the enemies to make them neither broken nor too weak.
+I will implement these enemies into the game and balance them to make them neither broken nor too weak.
 
 ## Anything Blocking?
 
