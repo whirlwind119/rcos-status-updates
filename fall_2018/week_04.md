@@ -2,7 +2,7 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-I was unable to do much work because of homework and exams
+I was unable to do a lot of work because of homeworks and exams. I did however watch some tutorials on things like how to move objects or how to make objects do certain actions.
 
 ## This Week's Plan
 
