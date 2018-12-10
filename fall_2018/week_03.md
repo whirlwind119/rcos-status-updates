@@ -2,13 +2,13 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-I researched more complicated AI topics, like A*
+I learned how to code basic stuff in C#, using the given update and start functions.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-Implement a basic AI unit in the game
+I plan on learning how to code more complicated stuff for our game.
 
 ## Anything Blocking?
 
