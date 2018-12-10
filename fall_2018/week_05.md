@@ -2,13 +2,13 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-Our group created a very basic prototype of our game.
+Our group created a very basic prototype of our game with extremely naive ai. I spent time learning complex ai concepts, like A* pathfinding and such.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-Implement an enemy in our game
+Implement an AI into the game.
 
 ## Anything Blocking?
 
