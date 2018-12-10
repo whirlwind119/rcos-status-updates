@@ -2,13 +2,13 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-I familiarized myself with Unity.
+I am unfamiliar with Unity, so I worked on learning the basics of it, like how to put images onto the screen and such.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-Start working on a prototype for our game
+I plan on playing more with Unity to get more used to it.
 
 ## Anything Blocking?
 
