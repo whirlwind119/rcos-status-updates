@@ -1,0 +1,3 @@
+## Final Remarks
+
+I spent most of the semester learning how to use Unity and how to use C#. While I was learning, I mainly wrote pseudocode for the ai and different classes. To reach our milestones, Ryan would implement my pseudocode into the game. In the past few days, I asked a few friends to play the game. They were confused how to play the game, so I added a "How to Play" scene to at least explain the basics of our game. Also, when a player won or lost, nothing happened so I added a win/lose condition and scenes. Furthermore, I added a pause menu. The pause menu was difficult to implement because our game itself has an innate pause mechanic with the space bar. I had to make sure to keep the pause screen pauses separate from the space bar pauses.
